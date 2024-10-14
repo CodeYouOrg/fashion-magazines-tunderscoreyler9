@@ -67,7 +67,7 @@ more than one unpaid Fashion Magazine subscriptions
 | Lizabeth Letsche | $237.00 |
 
 
-## Insructions
+## Instructions
 
 1. Clone the repo to your machine.
 1. Create and activate a virtual environment and install the packages listed in the 
@@ -80,7 +80,7 @@ database and save the results to `data/fashion_magazines.csv`.
 1. Add, Commit, and Push your `sql/fashion_magazines.sql` and 
 `data/fashion_magazines.csv` files back to GitHub.
 
-###  Virutal Environment Instructions
+###  Virtual Environment Instructions
 
 1. After you have cloned the repo to your machine, navigate to the project 
 folder in GitBash/Terminal.
